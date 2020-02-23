@@ -1,0 +1,34 @@
+.text-title{
+    text-align: center;
+    color: rgb(119, 119, 119);
+}
+.text-title2{
+    text-align: center;
+    color: rgb(119, 119, 119);
+}
+.text-regular{
+    text-align: center;
+    color: rgb(119, 119, 119);
+}
+.fa{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(119, 119, 119);
+}
+.read-more{
+    /*margin-top: 1.5em;*/
+    font-size: 20px;
+    color: white;
+    background-color: #80BA8E;
+    width: 60%;
+    height: 50px;
+    /*padding: 1em 2em;*/
+    border-radius: 5px;
+
+}
+.jumbotron{
+    margin-bottom: 10px;
+}
+.row{
+    margin: 0 !important;
+}

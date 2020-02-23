@@ -1,0 +1,29 @@
+.bg-transparent{
+    background-color: rgba(105, 105, 105, 0.21) !important;
+}
+.topnav-centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*height: 75px;*/
+}
+.nav-link{
+    color: white;
+    font-size: 20px;
+}
+.nav-link:hover {
+    color: #696969;
+}
+/*.navbar-toggler{*/
+/*    background: #444444;*/
+/*    !*color: dimgrey;*!*/
+/*}*/
+/*.navbar-toggler-icon{*/
+/*    !*color: dimgrey;*!*/
+/*}*/
+.burger {
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+}
