@@ -15,4 +15,16 @@ body {
   /*max-width: 700px;*/
   color: #ddd;
 }
+.footer {
+  background: rgba(0, 0, 0, 0.95);
+}
+.seperator {
+  background: #eeeeee;
+  color: white;
+  margin: 0;
+}
+.bottom-brand{
+  margin-bottom: 0 !important;
+  padding-bottom: 20px;
+}
 

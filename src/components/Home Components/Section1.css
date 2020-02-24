@@ -26,9 +26,14 @@
     border-radius: 5px;
 
 }
-.jumbotron{
-    margin-bottom: 10px;
+.jumbotron-bg{
+    margin-bottom: 0;
+    background: #f2f2f2 !important;
+}
+.secion-1 {
+    background: #f2f2f2 !important;
 }
 .row{
     margin: 0 !important;
+    background: #f2f2f2 !important;
 }

@@ -26,4 +26,85 @@
     color: white;
     text-align: center;
     padding: 20px;
+    font-size: 1.4em;
+}
+.bottom-parallax{
+    background-image: url("../../images/header2.jpg");
+    /* Set a specific height */
+    height: 75vh;
+    margin-bottom: 0 !important;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-text3{
+    color: white;
+    /*padding-top: 80px;*/
+    text-align: center;
+    font-size: 4em;
+    letter-spacing: -0.05em;
+    /*-webkit-text-stroke: 0.2px black;*/
+    font-weight: 300;
+    line-height: 1em;
+    /*padding: 20px;*/
+
+}
+.parallax-text4{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    wdith: 60%;
+    padding: 50px;
+}
+@media only screen and (max-width: 717px) {
+    .parallax-text1{
+        color: white;
+        margin-top: 15%;
+        text-align: center;
+        font-size: 3em;
+        padding: 20px;
+
+    }
+    .parallax-text4{
+        font-size: 25px;
+        color: white;
+        text-align: center;
+        wdith: 60%;
+        padding: 30px;
+    }
+}
+@media only screen and (max-width: 480px) {
+
+    .parallax-text2{
+        padding: 20px;
+        font-size: 1em;
+    }
+
+    .parallax-text3{
+        color: white;
+        /*padding-top: 80px;*/
+        text-align: center;
+        font-size: 3em;
+        font-weight: 300;
+
+    }
+    .parallax-text4{
+        font-size: 22px;
+        color: white;
+        text-align: center;
+        wdith: 60%;
+        padding: 25px;
+    }
+}
+@media only screen and (max-width: 382px) {
+    .parallax-text4{
+        font-size: 20px;
+        color: white;
+        text-align: center;
+        wdith: 60%;
+        padding: 25px;
+    }
 }

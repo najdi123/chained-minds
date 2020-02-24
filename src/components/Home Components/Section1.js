@@ -6,7 +6,7 @@ const Section1 = () => {
     const {language} = useContext(LanguageContext);
     return (
         <div>
-            <div className="jumbotron">
+            <div className="jumbotron jumbotron-bg">
                 <h1 className="text-title">
                     {language.isEnglish ? language.english.text1 : language.farsi.text1}
                 </h1>
@@ -14,6 +14,8 @@ const Section1 = () => {
                     {language.isEnglish ? language.english.text2 : language.farsi.text2}
                  </p>
             </div>
+
+            <hr className="seperator"/>
 
             <div className="section-1 row container-fluid pb-5">
                 <div className="col-sm-12 col-md-6 col-lg-4 text-center pt-5">
@@ -55,6 +57,7 @@ const Section1 = () => {
 
 
             </div>
+            <hr className="seperator"/>
         </div>
     );
 };

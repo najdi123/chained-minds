@@ -22,7 +22,28 @@ const LanguageContextProvider = (props) => {
             text8: 'Read More',
             text9: 'Game & Gamification!',
             text10: 'Donec ornare neque ac sem. Mauris aliquet. Aliquam sem leo, vulputate sed, convallis at, ultricies quis, justo. Donec magna.',
-            text11: 'Read More'
+            text11: 'Read More',
+            text_2_0: 'Out Latest Projects',
+            text_2_1: 'Cafe Game - Multiplayer Games',
+            text_2_2: 'CafeGame is an online multiplayer game platform which gives gamers abilities like social interactions,\n' +
+                'leagues and chatrooms in addition to variaty of games that is growing both in size and features.Cafe Game - Multiplayer Games',
+            text_2_3: 'Rosha - Flourishing Talents',
+            text_2_4: 'In Rosha, we have helped in designing their homepage, showing the events they run, management panel for\n' +
+                ' agency registrations, and their online store. And, it was a good experience for both of us!',
+            text_2_5: 'Mauris vulputate dolor',
+            text_2_6: 'In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra\n' +
+            'vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus\n' +
+            'at urna congue rutrum.',
+            text_2_7: 'Mauris vulputate dolor',
+            text_2_8: 'In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra\n' +
+                'vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus\n' +
+                'at urna congue rutrum.',
+            text_3_1: 'We’d love to work with you',
+            text_3_2: 'We’ve worked on a variety of projects with a wide range of clients, each with a unique problem set and\n' +
+                ' perspective. We continually improve our process and do our best work in strong partnerships with our clients.',
+            text_4_1: 'Get in touch',
+            text_4_2: 'Integer sit amet pede vel arcu aliquet pretium',
+
         },
         farsi: {
             home: 'خانه',
@@ -43,7 +64,25 @@ const LanguageContextProvider = (props) => {
             text8: 'بیشتر بخوانید',
             text9: 'وبسایت و وب اپ',
             text10: 'فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی .',
-            text11: 'بیشتر بخوانید'
+            text11: 'بیشتر بخوانید',
+            text_2_0: 'آخرین پروژه های ما',
+            text_2_1: 'کافه گیم - بازی های گروهی',
+            text_2_2: 'فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی,\n' +
+                'فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی',
+            text_2_3: 'روشا - فارسی فارسی فارسی',
+            text_2_4: 'فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی\n' +
+                ' فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی',
+            text_2_5: 'فارسی فارسی فارسی فارسی',
+            text_2_6: 'فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی\n' +
+                'فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی',
+            text_2_7: 'فارسی فارسی فارسی فارسی',
+            text_2_8: 'فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی\n' +
+                'فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی',
+            text_3_1: 'ما علاقمند به همکاری با شما هستیم!',
+            text_3_2: 'فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی فارسی\n' +
+                'فارسی فارسی فارسی فارسی فارسی فارسی  ',
+            text_4_1: 'با ما تماس بگیرید',
+            text_4_2: 'فارسی فارسی فارسی فارسی فارسی',
 
         }
     });
